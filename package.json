@@ -1,0 +1,27 @@
+{
+  "name": "translator-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "engines": {
+    "node":"10.18.0"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@vitalets/google-translate-api": "^7.0.0",
+    "compression": "^1.7.4",
+    "express": "^4.17.1",
+    "hbs": "^4.1.2",
+    "helmet": "^4.6.0",
+    "translate": "^1.2.3"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.12"
+  }
+}

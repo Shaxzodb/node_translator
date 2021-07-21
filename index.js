@@ -4,7 +4,7 @@ const router=require('./routes/router')
 
 
 const app=express();
-require('./routes/prod')(app);
+//require('./routes/prod')(app);
 app.use(express.json());
 app.use(express.urlencoded({extended:true}));
 app.set('view engine','hbs')

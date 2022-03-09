@@ -32,8 +32,8 @@
 - Deploy the native app to the App store and Play store using this guide: [Deployment](https://docs.expo.dev/distribution/app-stores/).
 - Deploy the website using this guide: [Web deployment](https://docs.expo.dev/distribution/publishing-websites/).
 
--salom
- -salom
+- salom
+ - salom
 ```npm install ```
 
 ## 📝 Notes

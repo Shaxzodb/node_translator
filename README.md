@@ -33,7 +33,7 @@
 - Deploy the website using this guide: [Web deployment](https://docs.expo.dev/distribution/publishing-websites/).
 
 - salom
- - salom
+  - salom
 ```npm install ```
 
 ## 📝 Notes

@@ -34,7 +34,10 @@
 
 - salom
   - salom
-```npm install ```
+``` 
+  npm install
+  
+```
 
 ## 📝 Notes
 
